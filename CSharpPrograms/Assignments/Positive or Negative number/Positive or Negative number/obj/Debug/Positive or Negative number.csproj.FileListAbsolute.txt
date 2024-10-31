@@ -1,7 +1,0 @@
-C:\.net trainee\Infinite 1\CSharpPrograms\Assignments\Positive or Negative number\Positive or Negative number\obj\Debug\Positive or Negative number.csproj.AssemblyReference.cache
-C:\.net trainee\Infinite 1\CSharpPrograms\Assignments\Positive or Negative number\Positive or Negative number\obj\Debug\Positive or Negative number.csproj.CoreCompileInputs.cache
-C:\.net trainee\Infinite 1\CSharpPrograms\Assignments\Positive or Negative number\Positive or Negative number\bin\Debug\Positive or Negative number.exe.config
-C:\.net trainee\Infinite 1\CSharpPrograms\Assignments\Positive or Negative number\Positive or Negative number\bin\Debug\Positive or Negative number.exe
-C:\.net trainee\Infinite 1\CSharpPrograms\Assignments\Positive or Negative number\Positive or Negative number\bin\Debug\Positive or Negative number.pdb
-C:\.net trainee\Infinite 1\CSharpPrograms\Assignments\Positive or Negative number\Positive or Negative number\obj\Debug\Positive or Negative number.exe
-C:\.net trainee\Infinite 1\CSharpPrograms\Assignments\Positive or Negative number\Positive or Negative number\obj\Debug\Positive or Negative number.pdb

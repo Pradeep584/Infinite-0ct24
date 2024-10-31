@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 This is first class of Csharp
+=======
+This is first class of Csharp
+>>>>>>> 318110094920f97d797b3187ac2a8827fa2d5f51

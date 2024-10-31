@@ -1,7 +1,0 @@
-C:\.net trainee\Infinite 1\CSharpPrograms\Assignments\equalornot\equalornot\bin\Debug\equalornot.exe.config
-C:\.net trainee\Infinite 1\CSharpPrograms\Assignments\equalornot\equalornot\bin\Debug\equalornot.exe
-C:\.net trainee\Infinite 1\CSharpPrograms\Assignments\equalornot\equalornot\bin\Debug\equalornot.pdb
-C:\.net trainee\Infinite 1\CSharpPrograms\Assignments\equalornot\equalornot\obj\Debug\equalornot.csproj.AssemblyReference.cache
-C:\.net trainee\Infinite 1\CSharpPrograms\Assignments\equalornot\equalornot\obj\Debug\equalornot.csproj.CoreCompileInputs.cache
-C:\.net trainee\Infinite 1\CSharpPrograms\Assignments\equalornot\equalornot\obj\Debug\equalornot.exe
-C:\.net trainee\Infinite 1\CSharpPrograms\Assignments\equalornot\equalornot\obj\Debug\equalornot.pdb
