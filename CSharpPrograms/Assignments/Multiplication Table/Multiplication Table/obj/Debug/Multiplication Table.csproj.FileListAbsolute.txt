@@ -1,0 +1,7 @@
+C:\.net trainee\Infinite 1\CSharpPrograms\Assignments\Multiplication Table\Multiplication Table\obj\Debug\Multiplication Table.csproj.AssemblyReference.cache
+C:\.net trainee\Infinite 1\CSharpPrograms\Assignments\Multiplication Table\Multiplication Table\obj\Debug\Multiplication Table.csproj.CoreCompileInputs.cache
+C:\.net trainee\Infinite 1\CSharpPrograms\Assignments\Multiplication Table\Multiplication Table\bin\Debug\Multiplication Table.exe.config
+C:\.net trainee\Infinite 1\CSharpPrograms\Assignments\Multiplication Table\Multiplication Table\bin\Debug\Multiplication Table.exe
+C:\.net trainee\Infinite 1\CSharpPrograms\Assignments\Multiplication Table\Multiplication Table\bin\Debug\Multiplication Table.pdb
+C:\.net trainee\Infinite 1\CSharpPrograms\Assignments\Multiplication Table\Multiplication Table\obj\Debug\Multiplication Table.exe
+C:\.net trainee\Infinite 1\CSharpPrograms\Assignments\Multiplication Table\Multiplication Table\obj\Debug\Multiplication Table.pdb

@@ -1,0 +1,7 @@
+C:\.net trainee\Infinite 1\CSharpPrograms\Assignments\AMoperations\AMoperations\bin\Debug\AMoperations.exe.config
+C:\.net trainee\Infinite 1\CSharpPrograms\Assignments\AMoperations\AMoperations\bin\Debug\AMoperations.exe
+C:\.net trainee\Infinite 1\CSharpPrograms\Assignments\AMoperations\AMoperations\bin\Debug\AMoperations.pdb
+C:\.net trainee\Infinite 1\CSharpPrograms\Assignments\AMoperations\AMoperations\obj\Debug\AMoperations.csproj.AssemblyReference.cache
+C:\.net trainee\Infinite 1\CSharpPrograms\Assignments\AMoperations\AMoperations\obj\Debug\AMoperations.csproj.CoreCompileInputs.cache
+C:\.net trainee\Infinite 1\CSharpPrograms\Assignments\AMoperations\AMoperations\obj\Debug\AMoperations.exe
+C:\.net trainee\Infinite 1\CSharpPrograms\Assignments\AMoperations\AMoperations\obj\Debug\AMoperations.pdb
