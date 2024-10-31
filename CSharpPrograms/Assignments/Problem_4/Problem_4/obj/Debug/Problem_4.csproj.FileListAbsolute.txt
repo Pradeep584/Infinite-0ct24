@@ -1,0 +1,6 @@
+C:\Pradeep\Infinite 1\CSharpPrograms\Problem_4\Problem_4\bin\Debug\Problem_4.exe.config
+C:\Pradeep\Infinite 1\CSharpPrograms\Problem_4\Problem_4\bin\Debug\Problem_4.exe
+C:\Pradeep\Infinite 1\CSharpPrograms\Problem_4\Problem_4\bin\Debug\Problem_4.pdb
+C:\Pradeep\Infinite 1\CSharpPrograms\Problem_4\Problem_4\obj\Debug\Problem_4.csproj.CoreCompileInputs.cache
+C:\Pradeep\Infinite 1\CSharpPrograms\Problem_4\Problem_4\obj\Debug\Problem_4.exe
+C:\Pradeep\Infinite 1\CSharpPrograms\Problem_4\Problem_4\obj\Debug\Problem_4.pdb
