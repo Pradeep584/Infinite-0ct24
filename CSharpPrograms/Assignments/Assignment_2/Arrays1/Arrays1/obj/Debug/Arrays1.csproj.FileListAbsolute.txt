@@ -1,0 +1,7 @@
+C:\.net trainee\Infinite 1\CSharpPrograms\Assignments\Assignment_2\Arrays1\Arrays1\bin\Debug\Arrays1.exe.config
+C:\.net trainee\Infinite 1\CSharpPrograms\Assignments\Assignment_2\Arrays1\Arrays1\bin\Debug\Arrays1.exe
+C:\.net trainee\Infinite 1\CSharpPrograms\Assignments\Assignment_2\Arrays1\Arrays1\bin\Debug\Arrays1.pdb
+C:\.net trainee\Infinite 1\CSharpPrograms\Assignments\Assignment_2\Arrays1\Arrays1\obj\Debug\Arrays1.csproj.AssemblyReference.cache
+C:\.net trainee\Infinite 1\CSharpPrograms\Assignments\Assignment_2\Arrays1\Arrays1\obj\Debug\Arrays1.csproj.CoreCompileInputs.cache
+C:\.net trainee\Infinite 1\CSharpPrograms\Assignments\Assignment_2\Arrays1\Arrays1\obj\Debug\Arrays1.exe
+C:\.net trainee\Infinite 1\CSharpPrograms\Assignments\Assignment_2\Arrays1\Arrays1\obj\Debug\Arrays1.pdb
