@@ -1,0 +1,2 @@
+C:\.net trainee\Infinite 1\CSharpPrograms\Core Challenges\Assesment_1\Challenge-1\Challenge-1\obj\Debug\Challenge-1.csproj.AssemblyReference.cache
+C:\.net trainee\Infinite 1\CSharpPrograms\Core Challenges\Assesment_1\Challenge-1\Challenge-1\obj\Debug\Challenge-1.csproj.CoreCompileInputs.cache

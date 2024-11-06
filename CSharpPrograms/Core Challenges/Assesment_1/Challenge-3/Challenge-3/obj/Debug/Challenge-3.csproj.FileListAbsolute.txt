@@ -1,0 +1,6 @@
+C:\.net trainee\Infinite 1\CSharpPrograms\Core Challenges\Assesment_1\Challenge-3\Challenge-3\bin\Debug\Challenge-3.exe.config
+C:\.net trainee\Infinite 1\CSharpPrograms\Core Challenges\Assesment_1\Challenge-3\Challenge-3\bin\Debug\Challenge-3.exe
+C:\.net trainee\Infinite 1\CSharpPrograms\Core Challenges\Assesment_1\Challenge-3\Challenge-3\bin\Debug\Challenge-3.pdb
+C:\.net trainee\Infinite 1\CSharpPrograms\Core Challenges\Assesment_1\Challenge-3\Challenge-3\obj\Debug\Challenge-3.csproj.CoreCompileInputs.cache
+C:\.net trainee\Infinite 1\CSharpPrograms\Core Challenges\Assesment_1\Challenge-3\Challenge-3\obj\Debug\Challenge-3.exe
+C:\.net trainee\Infinite 1\CSharpPrograms\Core Challenges\Assesment_1\Challenge-3\Challenge-3\obj\Debug\Challenge-3.pdb
