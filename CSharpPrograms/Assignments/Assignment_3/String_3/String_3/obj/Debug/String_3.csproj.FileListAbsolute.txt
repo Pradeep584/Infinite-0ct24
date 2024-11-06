@@ -1,0 +1,7 @@
+C:\.net trainee\Infinite 1\CSharpPrograms\Assignments\Assignment_3\String_3\String_3\bin\Debug\String_3.exe.config
+C:\.net trainee\Infinite 1\CSharpPrograms\Assignments\Assignment_3\String_3\String_3\bin\Debug\String_3.exe
+C:\.net trainee\Infinite 1\CSharpPrograms\Assignments\Assignment_3\String_3\String_3\bin\Debug\String_3.pdb
+C:\.net trainee\Infinite 1\CSharpPrograms\Assignments\Assignment_3\String_3\String_3\obj\Debug\String_3.csproj.AssemblyReference.cache
+C:\.net trainee\Infinite 1\CSharpPrograms\Assignments\Assignment_3\String_3\String_3\obj\Debug\String_3.csproj.CoreCompileInputs.cache
+C:\.net trainee\Infinite 1\CSharpPrograms\Assignments\Assignment_3\String_3\String_3\obj\Debug\String_3.exe
+C:\.net trainee\Infinite 1\CSharpPrograms\Assignments\Assignment_3\String_3\String_3\obj\Debug\String_3.pdb

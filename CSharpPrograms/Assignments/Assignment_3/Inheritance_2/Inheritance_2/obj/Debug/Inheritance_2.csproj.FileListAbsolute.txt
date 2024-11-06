@@ -1,0 +1,6 @@
+C:\.net trainee\Infinite 1\CSharpPrograms\Assignments\Assignment_3\Inheritance_2\Inheritance_2\bin\Debug\Inheritance_2.exe.config
+C:\.net trainee\Infinite 1\CSharpPrograms\Assignments\Assignment_3\Inheritance_2\Inheritance_2\bin\Debug\Inheritance_2.exe
+C:\.net trainee\Infinite 1\CSharpPrograms\Assignments\Assignment_3\Inheritance_2\Inheritance_2\bin\Debug\Inheritance_2.pdb
+C:\.net trainee\Infinite 1\CSharpPrograms\Assignments\Assignment_3\Inheritance_2\Inheritance_2\obj\Debug\Inheritance_2.csproj.CoreCompileInputs.cache
+C:\.net trainee\Infinite 1\CSharpPrograms\Assignments\Assignment_3\Inheritance_2\Inheritance_2\obj\Debug\Inheritance_2.exe
+C:\.net trainee\Infinite 1\CSharpPrograms\Assignments\Assignment_3\Inheritance_2\Inheritance_2\obj\Debug\Inheritance_2.pdb
