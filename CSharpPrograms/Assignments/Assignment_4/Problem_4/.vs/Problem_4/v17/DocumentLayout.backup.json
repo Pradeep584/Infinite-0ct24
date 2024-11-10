@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\.net trainee\\Infinite 1\\CSharpPrograms\\Assignments\\Assignment_4\\Problem_4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3F79974D-A6F7-4CC0-A3A0-6459FB6F986E}|Problem_4\\Problem_4.csproj|c:\\.net trainee\\infinite 1\\csharpprograms\\assignments\\assignment_4\\problem_4\\problem_4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F79974D-A6F7-4CC0-A3A0-6459FB6F986E}|Problem_4\\Problem_4.csproj|solutionrelative:problem_4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\.net trainee\\Infinite 1\\CSharpPrograms\\Assignments\\Assignment_4\\Problem_4\\Problem_4\\Program.cs",
+              "RelativeDocumentMoniker": "Problem_4\\Program.cs",
+              "ToolTip": "C:\\.net trainee\\Infinite 1\\CSharpPrograms\\Assignments\\Assignment_4\\Problem_4\\Problem_4\\Program.cs*",
+              "RelativeToolTip": "Problem_4\\Program.cs*",
+              "ViewState": "AgIAABYAAAAAAAAAAAAqwDYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T15:58:07.199Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

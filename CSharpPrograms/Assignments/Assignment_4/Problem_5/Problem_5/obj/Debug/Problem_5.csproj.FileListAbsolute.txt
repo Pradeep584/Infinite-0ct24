@@ -1,0 +1,7 @@
+C:\.net trainee\Infinite 1\CSharpPrograms\Assignments\Assignment_4\Problem_5\Problem_5\bin\Debug\Problem_5.exe.config
+C:\.net trainee\Infinite 1\CSharpPrograms\Assignments\Assignment_4\Problem_5\Problem_5\bin\Debug\Problem_5.exe
+C:\.net trainee\Infinite 1\CSharpPrograms\Assignments\Assignment_4\Problem_5\Problem_5\bin\Debug\Problem_5.pdb
+C:\.net trainee\Infinite 1\CSharpPrograms\Assignments\Assignment_4\Problem_5\Problem_5\obj\Debug\Problem_5.csproj.AssemblyReference.cache
+C:\.net trainee\Infinite 1\CSharpPrograms\Assignments\Assignment_4\Problem_5\Problem_5\obj\Debug\Problem_5.csproj.CoreCompileInputs.cache
+C:\.net trainee\Infinite 1\CSharpPrograms\Assignments\Assignment_4\Problem_5\Problem_5\obj\Debug\Problem_5.exe
+C:\.net trainee\Infinite 1\CSharpPrograms\Assignments\Assignment_4\Problem_5\Problem_5\obj\Debug\Problem_5.pdb
