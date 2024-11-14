@@ -1,0 +1,7 @@
+C:\.net trainee\Infinite 1\CSharpPrograms\Assignments\Assignment-5\Assignment-5\bin\Debug\Assignment-5.exe.config
+C:\.net trainee\Infinite 1\CSharpPrograms\Assignments\Assignment-5\Assignment-5\bin\Debug\Assignment-5.exe
+C:\.net trainee\Infinite 1\CSharpPrograms\Assignments\Assignment-5\Assignment-5\bin\Debug\Assignment-5.pdb
+C:\.net trainee\Infinite 1\CSharpPrograms\Assignments\Assignment-5\Assignment-5\obj\Debug\Assignment-5.csproj.AssemblyReference.cache
+C:\.net trainee\Infinite 1\CSharpPrograms\Assignments\Assignment-5\Assignment-5\obj\Debug\Assignment-5.csproj.CoreCompileInputs.cache
+C:\.net trainee\Infinite 1\CSharpPrograms\Assignments\Assignment-5\Assignment-5\obj\Debug\Assignment-5.exe
+C:\.net trainee\Infinite 1\CSharpPrograms\Assignments\Assignment-5\Assignment-5\obj\Debug\Assignment-5.pdb
