@@ -1,0 +1,6 @@
+C:\.net trainee\Infinite 1\CSharpPrograms\Assignments\Assignment-6\Assignment-6\ClassLibrary_Assignment6\ClassLibrary_Assignment6\bin\Debug\ClassLibrary_Assignment6.exe
+C:\.net trainee\Infinite 1\CSharpPrograms\Assignments\Assignment-6\Assignment-6\ClassLibrary_Assignment6\ClassLibrary_Assignment6\bin\Debug\ClassLibrary_Assignment6.pdb
+C:\.net trainee\Infinite 1\CSharpPrograms\Assignments\Assignment-6\Assignment-6\ClassLibrary_Assignment6\ClassLibrary_Assignment6\obj\Debug\ClassLibrary_Assignment6.csproj.AssemblyReference.cache
+C:\.net trainee\Infinite 1\CSharpPrograms\Assignments\Assignment-6\Assignment-6\ClassLibrary_Assignment6\ClassLibrary_Assignment6\obj\Debug\ClassLibrary_Assignment6.csproj.CoreCompileInputs.cache
+C:\.net trainee\Infinite 1\CSharpPrograms\Assignments\Assignment-6\Assignment-6\ClassLibrary_Assignment6\ClassLibrary_Assignment6\obj\Debug\ClassLibrary_Assignment6.exe
+C:\.net trainee\Infinite 1\CSharpPrograms\Assignments\Assignment-6\Assignment-6\ClassLibrary_Assignment6\ClassLibrary_Assignment6\obj\Debug\ClassLibrary_Assignment6.pdb
