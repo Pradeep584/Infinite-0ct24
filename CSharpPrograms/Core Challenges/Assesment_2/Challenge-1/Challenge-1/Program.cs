@@ -107,9 +107,8 @@ namespace Challenge_1
             else
             {
                 Console.WriteLine("Invalid input. Please enter either 'Undergraduate' or 'Graduate'. ");
-                
+
             }
-            Console.Read();
         }
     }
 }
