@@ -118,13 +118,5 @@ SELECT * FROM DEPT
 
 
 
- create or alter proc sp_inc (@enum int)
- as
- begin
- select empno,ename,sal,sal+100 from emp where sal<1250 
- and empno=@enum
- end
-
-sp_inc 7876
-
+ 
  
