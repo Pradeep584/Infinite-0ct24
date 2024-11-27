@@ -95,13 +95,7 @@ SELECT * FROM DEPT
  
  
 
-  select dname from emp,dept where emp.deptno=dept.deptno group by dept.DEPTNO having count(emp.DEPTNO)=0
-
- 
-
- select * from emp where sal< any
- (select sal from emp where job='salesman')
- and job<>'salesman'
+  
 
 
 
