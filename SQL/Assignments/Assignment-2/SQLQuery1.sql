@@ -80,7 +80,7 @@ SELECT * FROM DEPT
 
  --12 Find out the names of the employees whose name begin with ‘A’ or ‘M’. 
  select ename from emp where ENAME like'A%' or  ename like 'M%'
-
+ 
  --13 Compute yearly salary of SMITH
  select ename, sal*12 as 'Annual Salary' from emp where ename = 'SMITH'
 
@@ -98,19 +98,7 @@ SELECT * FROM DEPT
   
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
+ 
 
 
 
