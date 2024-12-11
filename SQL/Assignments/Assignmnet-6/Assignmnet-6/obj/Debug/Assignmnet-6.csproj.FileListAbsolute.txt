@@ -1,0 +1,7 @@
+C:\.net trainee\Infinite 1\SQL\Assignments\Assignmnet-6\Assignmnet-6\bin\Debug\Assignmnet-6.exe.config
+C:\.net trainee\Infinite 1\SQL\Assignments\Assignmnet-6\Assignmnet-6\bin\Debug\Assignmnet-6.exe
+C:\.net trainee\Infinite 1\SQL\Assignments\Assignmnet-6\Assignmnet-6\bin\Debug\Assignmnet-6.pdb
+C:\.net trainee\Infinite 1\SQL\Assignments\Assignmnet-6\Assignmnet-6\obj\Debug\Assignmnet-6.csproj.AssemblyReference.cache
+C:\.net trainee\Infinite 1\SQL\Assignments\Assignmnet-6\Assignmnet-6\obj\Debug\Assignmnet-6.csproj.CoreCompileInputs.cache
+C:\.net trainee\Infinite 1\SQL\Assignments\Assignmnet-6\Assignmnet-6\obj\Debug\Assignmnet-6.exe
+C:\.net trainee\Infinite 1\SQL\Assignments\Assignmnet-6\Assignmnet-6\obj\Debug\Assignmnet-6.pdb
