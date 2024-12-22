@@ -50,7 +50,12 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="Event.html" />
     <Content Include="HTMLPage1.html" />
+    <Content Include="HTMLPage2.html" />
+    <Content Include="HTMLPage3.html" />
+    <Content Include="js1.html" />
+    <Content Include="oddoreven.html" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

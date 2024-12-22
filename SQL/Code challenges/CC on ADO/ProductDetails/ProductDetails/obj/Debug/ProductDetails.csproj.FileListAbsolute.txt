@@ -1,0 +1,7 @@
+C:\.net trainee\Infinite 1\SQL\Code challenges\CC on ADO\ProductDetails\ProductDetails\bin\Debug\ProductDetails.exe.config
+C:\.net trainee\Infinite 1\SQL\Code challenges\CC on ADO\ProductDetails\ProductDetails\bin\Debug\ProductDetails.exe
+C:\.net trainee\Infinite 1\SQL\Code challenges\CC on ADO\ProductDetails\ProductDetails\bin\Debug\ProductDetails.pdb
+C:\.net trainee\Infinite 1\SQL\Code challenges\CC on ADO\ProductDetails\ProductDetails\obj\Debug\ProductDetails.csproj.AssemblyReference.cache
+C:\.net trainee\Infinite 1\SQL\Code challenges\CC on ADO\ProductDetails\ProductDetails\obj\Debug\ProductDetails.csproj.CoreCompileInputs.cache
+C:\.net trainee\Infinite 1\SQL\Code challenges\CC on ADO\ProductDetails\ProductDetails\obj\Debug\ProductDetails.exe
+C:\.net trainee\Infinite 1\SQL\Code challenges\CC on ADO\ProductDetails\ProductDetails\obj\Debug\ProductDetails.pdb

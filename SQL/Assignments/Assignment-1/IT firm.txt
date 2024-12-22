@@ -1,4 +1,177 @@
- Clients Table
+class Admin
+    {
+        public static SqlConnection con = null;
+        public static SqlCommand cmd = null;
+        public static IDataAdapter reader = null;
+
+        void getdata()
+        {
+            con = new SqlConnection("Data source=ICS-LT-D244D6D0; database=RailwayProject; trusted_connection=true;");
+            con.Open();
+
+        }
+
+        public void Adm()
+        {
+            Console.WriteLine( "\nSelect your option");
+            Console.WriteLine("1.Admin");
+            Console.WriteLine("2.User");
+            Console.WriteLine("3.Exit");
+            Console.WriteLine("---------------------------");
+            string choice = Console.ReadLine();
+            Console.WriteLine("---------------------------");
+           switch (choice)
+            {
+                case"1":
+               AdminLogin();
+                    break;
+
+                //case "2":
+                //    UserMenu();
+                //    break;
+
+                //case "3":
+                //    Exit();
+                //    break;
+
+                default:
+                    Console.WriteLine("You entered invalid option enter your option again");
+                    break;
+
+            }
+            
+        }
+        public void AdminLogin()
+        {
+            Console.WriteLine("Enter Admin Name: ");
+            string AdminName = Console.ReadLine();
+            Console.WriteLine("Enter admin password");
+            string Password = Console.ReadLine();
+
+            Admin a = new Admin();
+            a.getdata();
+            SqlCommand cmd = new SqlCommand("select Count(*) from AdminTable where AdminName = @AdminName and Password = @Password", con);
+            cmd.Parameters.AddWithValue("@AdminName", AdminName);
+            cmd.Parameters.AddWithValue("@Password", Password);
+
+            int count = (int)cmd.ExecuteScalar();
+
+            if (count > 0)
+            {
+                Console.WriteLine("Login done Successfully.");
+                Console.WriteLine("Please choose your option: ");
+                Console.WriteLine("1. AddTrains");
+                Console.WriteLine("2. ModifyTrains");
+                Console.WriteLine("3. DeleteTrains");
+
+                string Admchoice = Console.ReadLine();
+
+                switch (Admchoice)
+                {
+                    case "1":
+                        AddTrains();
+                        break;
+
+                    //case "2":
+                    //    ModifyTrains();
+                    //    break;
+
+                    //case "3":
+                    //    DeleteTrains();
+                    //    break;
+
+                    default:
+                        Console.WriteLine("You selected invalid option");
+                        break;
+
+                }
+
+            }     
+        }
+        public void AddTrains()
+        {
+            Console.WriteLine("Enter the train number  : ");
+            string TrainNo = Console.ReadLine();
+
+            Console.WriteLine("Enter the Train Name: ");
+            string TrainName = Console.ReadLine();
+
+            Console.WriteLine("Enter the station name where train is starting:  ");
+            String FromStation = Console.ReadLine();
+
+            Console.WriteLine("Enter the station name train is going: ");
+            string ToStation = Console.ReadLine();
+
+            Console.WriteLine("Display the total no.of seats available: ");
+            int TotalBerthsAvailable = int.Parse(Console.ReadLine());
+
+            Admin a = new Admin();
+            a.getdata();
+
+            SqlCommand cmd = new SqlCommand("insert into Trains (TrainNo,TrainName,FromStation,ToStation,TotalBerthsAvailable)" +
+                "values (@TrainNo,@TrainName,@FromStation,@ToStation,@TotalBerthsAvailable)", con);
+
+            cmd.Parameters.AddWithValue("@TrainNo", TrainNo);
+            cmd.Parameters.AddWithValue("@TrainName", TrainName);
+            cmd.Parameters.AddWithValue("@FromStation", FromStation);
+            cmd.Parameters.AddWithValue("@ToStation", ToStation);
+            cmd.Parameters.AddWithValue("@TotalBerthsAvailable", TotalBerthsAvailable);
+
+            cmd.ExecuteNonQuery();
+            Console.WriteLine("Train is added successfully");
+
+        }
+
+        public void UpdateTrains()
+        {
+            Console.WriteLine("Enter the train number to modify: ");
+            int TrainNo = int.Parse(Console.ReadLine());
+
+            Console.WriteLine("Enter the new train name: ");
+            string TrainName = Console.ReadLine();
+
+            Console.WriteLine("Enter the station where the train is starting: ");
+            string FromStation = Console.ReadLine();
+
+            Console.WriteLine("Enter the station where train is going: ");
+            string ToStation = Console.ReadLine();
+
+            Console.WriteLine("Display the total no.of seats available: ");
+            int TotalBerthsAvailable = int.Parse(Console.ReadLine());
+;
+
+
+            Admin a = new Admin();
+            a.getdata();
+
+            SqlCommand cmd = new SqlCommand("update Trains set TrainName=@TrainName, FromStation=@FromStation, ToStation=@ToStation, TotalBerthsAvailable=@TotalBerthsAvailable where TrainNo=@TrainNo", con);
+            cmd.Parameters.AddWithValue("@TrainNo", TrainNo);
+            cmd.Parameters.AddWithValue("@TrainName", TrainName);
+            cmd.Parameters.AddWithValue("@FromStation", FromStation);
+            cmd.Parameters.AddWithValue("@ToStation", ToStation);
+            cmd.Parameters.AddWithValue("@TotalBerthsAvailable", TotalBerthsAvailable);
+
+            cmd.ExecuteNonQuery();
+            Console.WriteLine("Train details are updated successfully");
+        }
+
+        public void DeleteTrain()
+        {
+            Console.WriteLine("Enter the train number to delete: ");
+            int TrainNo = int.Parse(Console.ReadLine());
+
+            Admin a = new Admin();
+            a.getdata();
+
+            SqlCommand cmd = new SqlCommand("delete * from Trains where TrainNo=@TrainNo", con);
+            cmd.Parameters.AddWithValue("@TrainNo", TrainNo);
+
+            cmd.ExecuteNonQuery();
+            Console.WriteLine("Train is successfully deleted");
+        }
+
+        
+    } Clients Table
 --------------------------------------
 CREATE TABLE Clients (
 Client ID number(4) primary key,
